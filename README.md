@@ -1,2 +1,3 @@
 # hermitbrew.com
-hermitbrew
+hermitbrew.com
+Escape from digital fatigue
